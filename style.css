@@ -1,7 +1,9 @@
 body{
     height:   95vh;
     width:95;
-    display: :flex;
+    display:flex;
     justify-content:center;
-    align
+    align-items:center;
+    flex-direction: column;
+    color:MidnightBlue;
 }
